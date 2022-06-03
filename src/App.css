@@ -1,7 +1,27 @@
-.App {
+.text {
   text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+  background-color: coral;
+  width: 100%;
 }
 
+.user {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+  background-color: #6b8b8b;
+}
+
+.btn {
+  width: 250px;
+  height: 200px;
+  margin: 10px;
+  align-items: center;
+  justify-content: center;
+}
+
+/* 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -35,4 +55,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
